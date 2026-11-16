@@ -98,9 +98,35 @@ Personal budget and net-worth planner with what-if scenarios, charts and dark mo
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[presidio-ui](https://github.com/blackburn2601/presidio-ui)**<br>
+Vue 3 frontend for Microsoft Presidio: live PII detection, seven anonymization modes, reversible
+encryption, explainable findings and German address recognizers.<br>
+<sub>Vue 3 · TypeScript · Tailwind · Docker · Presidio</sub>
+
+<a href="https://github.com/blackburn2601/presidio-ui"><img src="https://raw.githubusercontent.com/blackburn2601/presidio-ui/main/docs/screenshots/highlight-de.png" alt="presidio-ui highlighting German text"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[portfolio-website](https://github.com/blackburn2601/portfolio-website)**<br>
+My portfolio at [edv-wagner.com](https://edv-wagner.com): content-driven project pages,
+scroll animations and a light/dark theme.<br>
+<sub>Vue 3 · TypeScript · Tailwind · GSAP</sub>
+
+<a href="https://github.com/blackburn2601/portfolio-website"><img src="https://raw.githubusercontent.com/blackburn2601/portfolio-website/main/docs/screenshots/hero.png" alt="portfolio hero section"></a>
+
+</td>
+</tr>
 </table>
 
-## Also
+## Smaller tools
 
-- **[portfolio-website](https://github.com/blackburn2601/portfolio-website)**: my portfolio at
-  [edv-wagner.com](https://edv-wagner.com), built with Vue 3, TypeScript and GSAP
+- **[aws-internet-observer](https://github.com/blackburn2601/aws-internet-observer)** and its
+  **[ip-updater](https://github.com/blackburn2601/aws-internet-observer-ip-updater)**: check from the outside
+  whether a dynamic-IP connection is reachable (Flask, Traefik, systemd)
+- **[MountyPy](https://github.com/blackburn2601/MountyPy)**: cross-platform SSHFS mount helper in Python
+- **[dropcrypt](https://github.com/blackburn2601/dropcrypt)**: self-destructing encrypted messages
+- **[EncDelSkript](https://github.com/blackburn2601/EncDelSkript)**: encrypt-then-delete shell script for macOS
