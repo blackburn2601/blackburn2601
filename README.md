@@ -128,5 +128,5 @@ scroll animations and a light/dark theme.<br>
   **[ip-updater](https://github.com/blackburn2601/aws-internet-observer-ip-updater)**: check from the outside
   whether a dynamic-IP connection is reachable (Flask, Traefik, systemd)
 - **[MountyPy](https://github.com/blackburn2601/MountyPy)**: cross-platform SSHFS mount helper in Python
-- **[dropcrypt](https://github.com/blackburn2601/dropcrypt)**: self-destructing encrypted messages
+- **[dropcrypt](https://github.com/blackburn2601/dropcrypt)**: one-time message links (work in progress)
 - **[EncDelSkript](https://github.com/blackburn2601/EncDelSkript)**: encrypt-then-delete shell script for macOS
